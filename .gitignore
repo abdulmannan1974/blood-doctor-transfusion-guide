@@ -1,0 +1,16 @@
+# System files
+.DS_Store
+.Trash/
+
+# PDF source (optional - keep for reference but don't need in GitHub)
+*.pdf
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Temporary files
+*~
+.cache/
