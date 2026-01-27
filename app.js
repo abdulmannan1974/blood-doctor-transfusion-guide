@@ -1,5 +1,6 @@
 // Blood🩸Doctor Transfusion Guide - Interactive Application
 // Based on Bio-Rad Blood Group Antibodies Reference
+// Last updated: 2026-01-27
 
 const bloodGroupData = {
     abo: {
