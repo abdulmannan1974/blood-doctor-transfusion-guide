@@ -1,4 +1,5 @@
-// Blood🩸Doctor Transfusion Guide - Interactive Application
+// Blood Doctor Transfusion Guide - Interactive Application
+// Produced by Dr Abdul Mannan FRCPath FCPS | blooddoctor.co@gmail.com
 // Based on Bio-Rad Blood Group Antibodies Reference
 // Last updated: 2026-01-27 - 100% ACCURATE - All empty cells corrected - PRODUCTION READY
 
