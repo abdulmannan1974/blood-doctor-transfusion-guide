@@ -146,7 +146,7 @@ const bloodGroupData = {
                 freqCaucasian: "72",
                 freqBlack: "75",
                 freqOthers: "Asians: 83",
-                remarks: "Many examples are naturally-occurring. Rare N-S-s-U- individuals make an antibody that reacts with N on GPA and GPB."
+                remarks: "Many examples are naturally-occurring. Rare N-S-s-U- individuals make an antibody that reacts with N on GPA and GPB, and is usually clinically significant."
             },
             {
                 name: "Anti-S",
@@ -619,7 +619,7 @@ const bloodGroupData = {
                 clinicalSig: "No",
                 freqCaucasian: "8",
                 freqBlack: "5",
-                freqOthers: "All populations: 5-10",
+                freqOthers: "",
                 remarks: "Characteristic reaction picture of 'loose' agglutinates. Sera containing anti-Luᵃ often also contain HLA antibodies."
             },
             {
