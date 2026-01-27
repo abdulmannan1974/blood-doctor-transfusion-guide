@@ -16,7 +16,7 @@ const bloodGroupData = {
                 saline: "Yes for IgM component",
                 iat: "Yes for IgG component",
                 papain: "↑↑",
-                dosage: "Yes",
+                dosage: "",
                 complement: "Yes, some hemolytic",
                 hdfn: "No to moderate",
                 htr: "No to severe",
@@ -24,7 +24,7 @@ const bloodGroupData = {
                 freqCaucasian: "43",
                 freqBlack: "27",
                 freqOthers: "Asians: 28, Mexicans: 28, South American Indians: 0",
-                remarks: "Naturally occurring antibody. Can cause immediate or delayed hemolytic transfusion reactions."
+                remarks: ""
             },
             {
                 name: "Anti-B",
@@ -34,7 +34,7 @@ const bloodGroupData = {
                 saline: "Yes for IgM component",
                 iat: "Yes for IgG component",
                 papain: "↑↑",
-                dosage: "Yes",
+                dosage: "",
                 complement: "Yes, some hemolytic",
                 hdfn: "No to moderate",
                 htr: "No to severe",
@@ -42,7 +42,7 @@ const bloodGroupData = {
                 freqCaucasian: "9",
                 freqBlack: "20",
                 freqOthers: "Asians: 27, Mexicans: 13, South American Indians: 0",
-                remarks: "Naturally occurring antibody. Can cause immediate or delayed hemolytic transfusion reactions."
+                remarks: ""
             },
             {
                 name: "Anti-A,B",
@@ -52,7 +52,7 @@ const bloodGroupData = {
                 saline: "Yes for IgM component",
                 iat: "Yes for IgG component",
                 papain: "↑↑",
-                dosage: "Yes",
+                dosage: "",
                 complement: "Rare",
                 hdfn: "No to severe",
                 htr: "None to mild/delayed",
@@ -70,7 +70,7 @@ const bloodGroupData = {
                 saline: "Yes",
                 iat: "Rare",
                 papain: "↑↑",
-                dosage: "Yes",
+                dosage: "",
                 complement: "Rare",
                 hdfn: "No",
                 htr: "None to mild/delayed",
