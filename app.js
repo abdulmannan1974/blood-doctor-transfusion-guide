@@ -1196,10 +1196,10 @@ const bloodGroupData = {
                 saline: "",
                 iat: "Yes",
                 papain: "↔",
-                dosage: "No",
+                dosage: "",
                 complement: "",
-                hdfn: "",
-                htr: "",
+                hdfn: "No",
+                htr: "No",
                 freqCaucasian: "Most populations: > 98",
                 freqBlack: "95",
                 remarks: ""
