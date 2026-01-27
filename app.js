@@ -550,15 +550,15 @@ const bloodGroupData = {
                 saline: "Rare",
                 iat: "Yes",
                 papain: "↑",
-                dosage: "Yes",
-                complement: "Some",
-                hdfn: "Yes if IgM present, some hemolytic",
-                htr: "Mild to moderate (rare)",
+                dosage: "Some",
+                complement: "Yes if IgM present, some hemolytic",
+                hdfn: "Mild to moderate (rare)",
+                htr: "No to severe/immediate or delayed/hemolytic",
                 clinicalSig: "No to severe/immediate or delayed/hemolytic",
                 freqCaucasian: "77",
                 freqBlack: "92",
                 freqOthers: "Asians: 72",
-                remarks: "Anti-Jkᵃ deteriorates in vitro and in vivo. Can cause severe delayed hemolytic transfusion reactions."
+                remarks: "Anti-Jkᵃ deteriorates in vitro and in vivo."
             },
             {
                 name: "Anti-Jkᵇ",
@@ -568,15 +568,15 @@ const bloodGroupData = {
                 saline: "Rare",
                 iat: "Yes",
                 papain: "↑",
-                dosage: "Yes",
-                complement: "Some",
-                hdfn: "Yes if IgM present, some hemolytic",
-                htr: "No to mild (rare)",
+                dosage: "Some",
+                complement: "Yes if IgM present, some hemolytic",
+                hdfn: "No to mild (rare)",
+                htr: "No to severe/immediate or delayed/hemolytic",
                 clinicalSig: "No to severe/immediate or delayed/hemolytic",
                 freqCaucasian: "74",
                 freqBlack: "49",
                 freqOthers: "Asians: 76",
-                remarks: "Anti-Jkᵇ deteriorates in vitro and in vivo. Can cause severe delayed hemolytic transfusion reactions."
+                remarks: "Anti-Jkᵇ deteriorates in vitro and in vivo."
             },
             {
                 name: "Anti-Jk3",
