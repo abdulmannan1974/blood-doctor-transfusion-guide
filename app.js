@@ -271,7 +271,7 @@ const bloodGroupData = {
                 iat: "Yes",
                 papain: "↑↑",
                 dosage: "Yes",
-                complement: "No",
+                complement: "Yes",
                 hdfn: "Mild to severe",
                 htr: "Mild to severe/immediate or delayed",
                 clinicalSig: "Mild to severe/immediate or delayed",
