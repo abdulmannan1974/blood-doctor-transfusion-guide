@@ -586,7 +586,7 @@ const bloodGroupData = {
                 saline: "Rare",
                 iat: "Yes",
                 papain: "↑",
-                dosage: "Yes",
+                dosage: "No",
                 complement: "Yes, some hemolytic",
                 hdfn: "No to mild",
                 htr: "No to severe/immediate or delayed",
