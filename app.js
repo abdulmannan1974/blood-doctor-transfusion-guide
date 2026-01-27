@@ -1078,7 +1078,7 @@ const bloodGroupData = {
                 saline: "Yes",
                 iat: "Very rare",
                 papain: "↑↑",
-                dosage: "No",
+                dosage: "",
                 complement: "Yes, some hemolytic",
                 hdfn: "No",
                 htr: "No",
@@ -1086,7 +1086,7 @@ const bloodGroupData = {
                 freqCaucasian: ">99 (Adults)",
                 freqBlack: ">99 (Adults)",
                 freqOthers: "Adults: >99",
-                remarks: "Most common cold autoantibody, rare alloantibody in I⁻ (adult i). Associated with CHAD and Mycoplasma pneumoniae infection."
+                remarks: "Most common cold autoantibody, rare alloantibody in I⁻ (adult i), high titre at 0-4°C, wide thermal range, associated with CHAD and Mycoplasma pneumoniae infection."
             },
             {
                 name: "Anti-i",
@@ -1096,14 +1096,14 @@ const bloodGroupData = {
                 saline: "Most",
                 iat: "Very rare",
                 papain: "↑↑",
-                dosage: "No",
+                dosage: "",
                 complement: "Yes, some hemolytic",
                 hdfn: "Rare",
                 htr: "No",
                 clinicalSig: "No",
                 freqCaucasian: "100",
-                freqBlack: "100",
-                freqOthers: "100",
+                freqBlack: "",
+                freqOthers: "",
                 remarks: "Autoantibody can occur in serum of people with infectious mononucleosis and some lymphoproliferative disorders."
             }
         ]
