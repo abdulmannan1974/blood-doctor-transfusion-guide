@@ -1,0 +1,42 @@
+ANTIBODIES WITH EMPTY CELLS THAT NEED FIXING:
+
+1. Anti-U (MNS5) - Lines 187-204
+   Empty: igM, saline, iat, papain, dosage, complement
+
+2. Anti-Lu3 (LU3) - Lines 643-660
+   Empty: hdfn, htr, clinicalSig
+
+3. Diego System - ALL 3 antibodies
+   Anti-Diᵃ: papain, complement
+   Anti-Diᵇ: papain, complement  
+   Anti-Wrᵃ: papain
+
+4. Dombrock System - BOTH antibodies
+   Anti-Doᵃ: saline, iat, dosage
+   Anti-Doᵇ: saline, iat, dosage
+
+5. Colton System - BOTH antibodies
+   Anti-Coᵃ: saline, iat
+   Anti-Coᵇ: igM, saline, iat
+
+6. Chido/Rodgers - BOTH antibodies
+   Anti-Ch1: saline, iat
+   Anti-Rg1: igM, saline, iat
+
+7. Knops System - ALL 3 antibodies
+   Anti-Knᵃ: igM, saline, iat
+   Anti-McCᵃ: igM, saline, iat
+   Anti-Ykᵃ: igM, saline, iat
+
+8. JMH System
+   Anti-JMH: igM, saline, iat
+
+9. JR System
+   Anti-Jrᵃ: igM, saline, iat
+
+10. LAN System
+    Anti-Lan: igM, saline, iat
+
+11. COST Collection - BOTH antibodies
+    Anti-Csᵃ: igM, complement
+    Anti-Csᵇ: igM
