@@ -524,17 +524,17 @@ const bloodGroupData = {
                 igM: "Yes",
                 igG: "Yes",
                 saline: "Yes",
-                iat: "Yes",
-                papain: "=",
-                dosage: "Yes",
-                complement: "Rare",
+                iat: "",
+                papain: "",
+                dosage: "Rare",
+                complement: "",
                 hdfn: "Mild (rare)",
                 htr: "Mild to moderate/immediate (rare)/delayed/hemolytic",
                 clinicalSig: "Mild to moderate/immediate (rare)/delayed/hemolytic",
                 freqCaucasian: "100",
                 freqBlack: "32",
-                freqOthers: "Asians: 99.9, Yemeni Jews: 99",
-                remarks: "Made by Fy(a-b-) individuals."
+                freqOthers: "Asians: 99.9, Yemeni Jews: 99, Israeli Jews: 96, Israeli Arabs: 75",
+                remarks: ""
             }
         ]
     },
