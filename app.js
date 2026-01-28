@@ -674,7 +674,7 @@ const bloodGroupData = {
                 saline: "Yes",
                 iat: "Very rare",
                 papain: "↑↑",
-                dosage: "No",
+                dosage: "",
                 complement: "Rare",
                 hdfn: "No",
                 htr: "No to moderate/delayed (rare)",
@@ -682,7 +682,7 @@ const bloodGroupData = {
                 freqCaucasian: "79",
                 freqBlack: "94",
                 freqOthers: "Cambodian, Vietnamese: 20",
-                remarks: "There is considerable variation in the strength of P1 expression on RBCs."
+                remarks: "There is considerable variation in the strength of P1 expression on RBCs.This variation is inherited , and atleast partially dependant on the zygosity of P1 alleles"
             },
             {
                 name: "Anti-P",
@@ -692,7 +692,7 @@ const bloodGroupData = {
                 saline: "Some",
                 iat: "Some",
                 papain: "↑↑",
-                dosage: "No",
+                dosage: "",
                 complement: "Yes, some hemolytic",
                 hdfn: "No to mild (in Pᵏ mothers with anti-P)",
                 htr: "No to severe (rare)",
@@ -700,24 +700,24 @@ const bloodGroupData = {
                 freqCaucasian: ">99.9",
                 freqBlack: ">99.9",
                 freqOthers: "All populations: >99.9",
-                remarks: "Autoanti-P exists as a biphasic autohemolysin in PCH, detected by the Donath-Landsteiner test."
+                remarks: "Autoanti-P exists as a biphasic autohemolysin in PCH, detected by the Donath-Landsteiner test.May occur after viral illness , particularly in children"
             },
             {
                 name: "Anti-PP1Pᵏ (Tjᵃ)",
                 symbol: "",
-                igM: "Yes",
-                igG: "Some",
+                igM: "",
+                igG: "Yes",
                 saline: "Some",
                 iat: "Some",
                 papain: "↑↑",
-                dosage: "No",
-                complement: "Yes, some hemolytic",
+                dosage: "",
+                complement: "Yes",
                 hdfn: "Yes",
                 htr: "Yes",
                 clinicalSig: "Yes",
                 freqCaucasian: "100",
-                freqBlack: "100",
-                freqOthers: "100",
+                freqBlack: "",
+                freqOthers: "",
                 remarks: "Alloantibody in sera of p⁻ people may cause complete hemolysis in fresh serum. Potential cause of early abortion."
             }
         ]
