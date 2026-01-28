@@ -96,7 +96,7 @@ const bloodGroupData = {
                 saline: "Yes",
                 iat: "Rare",
                 papain: "↑↑",
-                dosage: "No",
+                dosage: "",
                 complement: "Some",
                 hdfn: "Possible in Oh mothers",
                 htr: "No to severe in Oh and H⁺ʷ",
