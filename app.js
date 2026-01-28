@@ -621,7 +621,7 @@ const bloodGroupData = {
                 freqCaucasian: "8",
                 freqBlack: "5",
                 freqOthers: "",
-                remarks: "Characteristic reaction picture of 'loose' agglutinates surrounded by unagglutinated RBCs un tube technique. Sera containing anti-Luᵃ often also contain HLA antibodies."
+                remarks: "Characteristic reaction picture of 'loose' agglutinates surrounded by unagglutinated RBCs in tube technique. Sera containing anti-Luᵃ often also contain HLA antibodies."
             },
             {
                 name: "Anti-Luᵇ",
