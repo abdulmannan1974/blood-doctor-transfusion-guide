@@ -202,6 +202,24 @@ const bloodGroupData = {
                 freqBlack: "99",
                 freqOthers: "",
                 remarks: "Autoantibody has been identified to cause WAIHA in rare cases."
+            },
+            {
+                name: "Anti-Miᵃ",
+                symbol: "MNS7",
+                igM: "Yes (V)",
+                igG: "Yes",
+                saline: "V",
+                iat: "V",
+                papain: "↓↓",
+                dosage: "Yes (V: mild → severe reported)",
+                complement: "Positive",
+                hdfn: "Yes (mild–moderate typical; severe reported)",
+                htr: "Yes (mild–moderate typical; severe reported)",
+                clinicalSig: "Clinically significant when reactive at 37°C/AHG and/or IgG",
+                freqCaucasian: "Rare overall",
+                freqBlack: "Very rare",
+                freqOthers: "Higher in E/SE Asians: Chinese/Vietnamese ~6.5%, Filipinos ~7.6%, Taiwan ~4.66%",
+                remarks: "Often presents as 'reacts with one screening cell' pattern. Associated with MNS hybrid glycophorin variants (GP.Mur/GP.Vw/GP.Hut). Australia donors ~0.22%; Taiwan regional ~18%."
             }
         ]
     },
