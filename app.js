@@ -206,20 +206,20 @@ const bloodGroupData = {
             {
                 name: "Anti-Miᵃ",
                 symbol: "MNS7",
-                igM: "Yes (V)",
+                igM: "V",
                 igG: "Yes",
                 saline: "V",
-                iat: "V",
+                iat: "Yes",
                 papain: "↓↓",
-                dosage: "Yes (V: mild → severe reported)",
-                complement: "Positive",
-                hdfn: "Yes (mild–moderate typical; severe reported)",
+                dosage: "V",
+                complement: "V",
+                hdfn: "V (mild to severe reported)",
                 htr: "Yes (mild–moderate typical; severe reported)",
                 clinicalSig: "Clinically significant when reactive at 37°C/AHG and/or IgG",
-                freqCaucasian: "Rare overall",
-                freqBlack: "Very rare",
-                freqOthers: "Higher in E/SE Asians: Chinese/Vietnamese ~6.5%, Filipinos ~7.6%, Taiwan ~4.66%",
-                remarks: "Often presents as 'reacts with one screening cell' pattern. Associated with MNS hybrid glycophorin variants (GP.Mur/GP.Vw/GP.Hut). Australia donors ~0.22%; Taiwan regional ~18%."
+                freqCaucasian: "Rare; Australia 0.22%",
+                freqBlack: "Very rare (limited data)",
+                freqOthers: "Taiwan 4.66% (eastern ~18%); Southern China 6.5%",
+                remarks: "Mixed IgM/IgG (often IgG1/IgG3). May appear as 'reacts with one screening cell'. Associated with MNS hybrid glycophorins (GP.Mur/GP.Vw/GP.Hut). IgM-only cold examples often less significant."
             }
         ]
     },
