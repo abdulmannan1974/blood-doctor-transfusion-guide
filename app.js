@@ -466,15 +466,15 @@ const bloodGroupData = {
                 saline: "Yes",
                 iat: "Some",
                 papain: "↑↑",
-                dosage: "No",
+                dosage: "",
                 complement: "Yes, some hemolytic",
                 hdfn: "No (one mild case)",
                 htr: "No (rare cases of hemolytic reactions)",
                 clinicalSig: "No (rare cases of hemolytic reactions)",
                 freqCaucasian: "22",
                 freqBlack: "23",
-                freqOthers: "Asians: 6",
-                remarks: "Anti-Leᵃ and anti-Leᵇ in conjunction are frequently naturally occurring antibodies made by Le(a-b-) people."
+                freqOthers: "",
+                remarks: "Anti-Leᵃ and anti-Leᵇ in conjunction are frequently naturally occurring antibodies made by Le(a-b-) people, especially during pregnancy. There are two kinds of anti-Leᵇ: anti-Leᵇ(H)(LE4), reacting with group O and A2 Le(b+) RBCs, and anti-Leᵇ(L), reacting with all Le(b+) RBCs. Other antibodies react specifically with the compound antigens, e.g., ALeᵇ (LE5) and BLeᵇ (LE6)."
             },
             {
                 name: "Anti-Leᵇ",
@@ -484,15 +484,15 @@ const bloodGroupData = {
                 saline: "Yes",
                 iat: "Some",
                 papain: "↑↑",
-                dosage: "No",
+                dosage: "",
                 complement: "Yes, some hemolytic",
                 hdfn: "No",
                 htr: "No",
                 clinicalSig: "No",
                 freqCaucasian: "72",
                 freqBlack: "55",
-                freqOthers: "Asians: 23",
-                remarks: "Two kinds exist: anti-LeᵇH (LE4) reacting with group O and A₂ Le(b+) RBCs, and anti-LeᵇL reacting with all Le(b+) RBCs."
+                freqOthers: "",
+                remarks: "Anti-Leᵃ and anti-Leᵇ in conjunction are frequently naturally occurring antibodies made by Le(a-b-) people, especially during pregnancy. There are two kinds of anti-Leᵇ: anti-Leᵇ(H)(LE4), reacting with group O and A2 Le(b+) RBCs, and anti-Leᵇ(L), reacting with all Le(b+) RBCs. Other antibodies react specifically with the compound antigens, e.g., ALeᵇ (LE5) and BLeᵇ (LE6)."
             }
         ]
     },
